@@ -14,7 +14,7 @@ minDist,
 param1,
 param2,
 minRadius,
-maxRadius,
+maxRadius.
 
 Example
 The provided ('c10.jpg') contains coins. After running the script, it displays the image with detected coins outlined, prints the count, and shows their sizes (diameters).
